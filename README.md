@@ -14,6 +14,7 @@ put this on your page
     <script src="assets/js/datepick.js"></script>
 
 ## just put input tag on your body page
+```html
 <input value="" data-datePicker ="true">
 
 
