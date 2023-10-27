@@ -7,8 +7,12 @@ put this on your page
     <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="assets/dist/css/css.css" rel="stylesheet">
 
- <--! yout html coder -->
-    <input value="" data-datePicker =true >
+
+
+
+
+ <--! put this on your body --> <input value="" data-datePicker =true >
+    
 
     <script src="assets/js/moment.js"></script>
     <script src="assets/js/datepick.js"></script>
