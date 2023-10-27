@@ -1,7 +1,7 @@
 # date-picker-bootsrap-5-moment-js-j-query
 date picker with bootsrap 5 moment js and jquery
 
-[DEMO]([https://choosealicense.com/licenses/mit/](https://phpscriptdownload.blogspot.com/2023/10/date-picker-bootsrap-5-momentjs.html))
+[DEMO]((https://phpscriptdownload.blogspot.com/2023/10/date-picker-bootsrap-5-momentjs.html)
 
 
 ## Usage
